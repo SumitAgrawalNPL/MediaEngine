@@ -7,7 +7,7 @@ It's a locally run .exe file which can help you with things like converting diff
 Before downloading the file please ensure that you run this in Windows 64bit OS or the file will crash instantly.
 
 ### More Info & Links
-Feel free to have a look at our web: https://mediaengineofficial.blogspot.com
+Feel free to have a look at our web: https://localmediaengineofficial.blogspot.com/
 
 ### Disclaimer
 MediaEngine is an independent, open-source software project and is not affiliated with, authorized, or endorsed by any other any other brand.
