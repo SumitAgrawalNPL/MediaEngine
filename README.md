@@ -4,6 +4,11 @@
 It's a locally run .exe file which can help you with things like converting different file types, change file formats, process codec from one to another or download a video from YouTube in a mp3 or mp4 format.
 To view full project [Click Here.](https://github.com/SumitAgrawalNPL/LocalMediaEngine)
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Copyright (c) 2026 Sumit Agrawal
 
 ### Requirements
 Before downloading the file please ensure that you run this in Windows 64bit OS or the file will crash instantly.
