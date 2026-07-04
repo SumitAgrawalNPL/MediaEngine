@@ -43,24 +43,20 @@ Below are step-by-step instructions with screenshots to help you use LocalMediaE
 5. from the dropdown menu select the action
 6. Finally, click on "Start Processing"
 
-<img width="1919" height="1023" alt="Document and Format Hub" src="https://github.com/user-attachments/assets/561c396a-b3c8-4df7-9ab4-2c1827195d14" />
-
-
-Tips:
-- For best audio quality when exporting MP3, choose a higher bitrate (192–320 kbps).
-- Lossless formats (like FLAC) preserve original audio quality but produce larger files.
+<img width="100%" alt="Document and Format Hub" src="https://github.com/user-attachments/assets/561c396a-b3c8-4df7-9ab4-2c1827195d14" />
 
 ---
 
 ### Downloading YouTube Videos
 
-1. Copy the YouTube video URL from your browser.
+1. After setting up the target folder, copy the YouTube video URL from your browser.
 2. Paste the URL into the "YouTube URL" field in the app.
 3. Choose the output format: **MP4** to save video, **MP3** to extract audio.
 4. Click **Download** and wait for the download and conversion to complete.
-5. Save the file to your desired location or use "Open Folder" to access it instantly.
 
-<img width="100%" alt="YouTube Download - Paste URL and Download" src="https://github.com/user-attachments/assets/d99a0633-1baa-4f21-b884-e9126cf39592" />
+<img width="100%" alt="LocalMediaEngine" src="https://github.com/user-attachments/assets/0753929c-dc72-494a-868f-eb5f1a6163b8" />
+
+
 
 Notes:
 - Ensure you have the right to download the content. Respect copyright and the platform's terms of service.
