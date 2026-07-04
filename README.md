@@ -16,7 +16,7 @@ A powerful, lightweight desktop application for media file conversion, codec pro
 ### System Requirements
 - **OS**: Windows 10/11 (64-bit only)
 - **Architecture**: 64-bit processor
-- **Storage**: Sufficient disk space for media files
+- **Storage**: 170MB for the app and sufficient disk space for media files
 
 ⚠️ **Important**: This application requires Windows 64-bit OS. Running on 32-bit systems or other operating systems is not supported and may cause crashes.
 
