@@ -37,13 +37,14 @@ Below are step-by-step instructions with screenshots to help you use LocalMediaE
 ### Converting Media Files
 
 1. Launch the application.
-2. Click the "Select File" button and choose one or more media files from your computer.
-3. Under "Output Format", pick the desired format (for example: MP4, MKV, MP3, WAV).
-4. (Optional) Open "Advanced Options" to tweak bitrate, resolution, or codec settings.
-5. Click the **Convert** button and wait for the progress bar to complete.
-6. Find the converted file in the output folder or click "Open Folder" when conversion finishes.
+2. Click on "Document and Media Hub"
+3. Select the target folder where you want the converted files to be stored
+4. Browse or paste the file in the text box
+5. from the dropdown menu select the action
+6. Finally, click on "Start Processing"
 
-<img width="100%" alt="Convert - Select File and Output" src="https://github.com/user-attachments/assets/67fb297b-8e4b-40fc-9cec-2301ddd4a631" />
+<img width="1919" height="1023" alt="Document and Format Hub" src="https://github.com/user-attachments/assets/561c396a-b3c8-4df7-9ab4-2c1827195d14" />
+
 
 Tips:
 - For best audio quality when exporting MP3, choose a higher bitrate (192–320 kbps).
