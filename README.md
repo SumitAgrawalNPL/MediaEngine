@@ -64,23 +64,20 @@ Notes:
 
 ---
 
-### Changing Codecs
+### Changing Codecs and Extracting Audio or Video
 
-1. Load your media file via "Select File".
-2. Under "Codec Settings", choose the target audio or video codec (e.g., H.264, H.265, AAC, MP3).
-3. Adjust codec-specific options (profile, level, bitrate) if needed.
-4. Click **Apply** or **Convert** to start processing the file with the new codec.
+1. After setting up the target folder, copy the YouTube video URL from your browser.
+2. If you want to process codec then choose between H.264, H.265, Apple ProRes or AV1, if you want to extract audio or visuals choose between "Extract Audio" or "Extract Video"
+3. Upload your file and click "Start Processing" 
+4. Wait till its done
 
 <img width="100%" alt="Codec Settings - Change Codec and Convert" src="https://github.com/user-attachments/assets/49271585-4eea-473f-b20e-3a2b577617dd" />
-
-Pro tip:
-- Converting between lossy codecs (e.g., MP3 -> AAC) may reduce quality; use a higher bitrate to minimize loss.
 
 ---
 
 ## 📦 Project Details
 
-- **Language**: HTML/Web-based Interface
+- **Language**: Python
 - **Type**: Desktop Application (.exe)
 - **License**: MIT License
 
